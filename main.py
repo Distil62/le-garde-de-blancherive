@@ -40,4 +40,4 @@ async def on_message(message):
 tokenFile = open('./token')
 token = tokenFile.readlines()[0]
 
-client.run(token)
+client.run("NjI2OTAxODYzNjAxNjY4MTA2.XY05aQ.FNj1AxXE2n9yuo3ZxvLswh-ja7Q")
